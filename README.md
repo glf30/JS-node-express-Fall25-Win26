@@ -36,6 +36,8 @@ Welcome! This will be your main place for JS-related materials!
 
 [3 - Event Listeners](https://gist.github.com/glf30/c2a5c63e56299a7c090ca1bfaced5146)
 
+[Forms](https://gist.github.com/glf30/ecac094d981d59a42bea535fcc38f231)
+
 ---
 
 ---
