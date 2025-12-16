@@ -46,6 +46,10 @@ Welcome! This will be your main place for JS-related materials!
 
 Welcome! This will be your main place for Node-Express-related materials!
 
+[1a - Modules](https://github.com/glf30/1a-intro-to-modules) | [Notes](https://gist.github.com/glf30/0df48a0110b41415e1fa6505037b6e9e)
+
+
+
 ---
 
 ---
