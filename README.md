@@ -48,7 +48,13 @@ Welcome! This will be your main place for Node-Express-related materials!
 
 [1a - Modules](https://github.com/glf30/1a-intro-to-modules) | [Notes](https://gist.github.com/glf30/0df48a0110b41415e1fa6505037b6e9e)
 
+[2a - NPM](https://github.com/glf30/2a-npm/) | [Notes](https://gist.github.com/glf30/4e92b06eb98289eb3e1a5498b6876718)
 
+[2b - Express](https://github.com/glf30/2b-express/) | [Notes](https://gist.github.com/glf30/570b35ea17459739bcfc37d8af4843e3)
+
+[2c - Express CRUD](https://github.com/glf30/2c-express-crud)  | [Notes](https://gist.github.com/glf30/58846897fedef710594d96c860d58075)
+
+[2d - Express Router](https://github.com/glf30/2d-express-router/) | [Notes](https://gist.github.com/glf30/3ad271a65346285b02dbf91a41543813)
 
 ---
 
